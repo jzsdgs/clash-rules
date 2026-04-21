@@ -1,35 +1,28 @@
-payload:
-  - '.ai.com'
-  - '.anthropic.com'
-  - '.api.anthropic.com'
-  - '.auth0.com'
-  - '.bard.google.com'
-  - '.chat.openai.com'
-  - '.claude.ai'
-  - '.claude.com'
-  - '.claudeusercontent.com'
-  - '.cloudflare.com'
-  - '.events.statsigapi.net'
-  - '.featuregates.org'
-  - '.forefront.ai'
-  - '.generativelanguage.googleapis.com'
-  - '.googleapis.com'
-  - '.grok.com'
-  - '.identrust.com'
-  - '.intercom.com'
-  - '.intercomcdn.com'
-  - '.invoice.stripe.com'
-  - '.launchdarkly.com'
-  - '.oaistatic.com'
-  - '.oaiusercontent.com'
-  - '.openai.com'
-  - '.pay.openai.com'
-  - '.perplexity.ai'
-  - '.platform.openai.com'
-  - '.poe.com'
-  - '.sentry.io'
-  - '.segment.io'
-  - '.stripe.com'
-  - '.x.ai'
-  - 'openaiapi-site.azureedge.net'
-  - '.azureedge.net'
+.ai.com
+.anthropic.com
+.auth0.com
+.azureedge.net
+.bard.google.com
+.chat.openai.com
+.claude.ai
+.claude.com
+.claudeusercontent.com
+.cloudflare.com
+.events.statsigapi.net
+.featuregates.org
+.forefront.ai
+.googleapis.com
+.grok.com
+.identrust.com
+.intercom.com
+.intercomcdn.com
+.launchdarkly.com
+.oaistatic.com
+.oaiusercontent.com
+.openai.com
+.perplexity.ai
+.poe.com
+.segment.io
+.sentry.io
+.stripe.com
+.x.ai
